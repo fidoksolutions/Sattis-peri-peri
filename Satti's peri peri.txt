@@ -1,6 +1,8 @@
 import { useState, useEffect, useMemo } from "react";
 
 import * as XLSX from "xlsx";
+const SUPABASE_URL = "https://bdrcywsohzmaqyvxtcgm.supabase.co/rest/v1/";
+const SUPABASE_KEY="sb_publishable_txdvy46IiQ-4csRXHhlOhg_0ZlLatdg";
 
  
 
